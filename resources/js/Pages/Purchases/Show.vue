@@ -68,16 +68,16 @@ onMounted(() => {
                                                             Id</th>
                                                         <th
                                                             class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100">
-                                                            商品名</th>
+                                                            product name</th>
                                                         <th
                                                             class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100">
-                                                            金額</th>
+                                                            price</th>
                                                         <th
                                                             class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100">
-                                                            数量</th>
+                                                            quantity</th>
                                                         <th
                                                             class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100">
-                                                            小計</th>
+                                                            Summary</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
