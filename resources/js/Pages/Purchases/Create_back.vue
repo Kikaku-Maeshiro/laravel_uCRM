@@ -73,10 +73,10 @@ const quantity = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"] // option用
         <thead>
             <tr>
                 <th>Id</th>
-                <th>商品名</th>
-                <th>金額</th>
-                <th>数量</th>
-                <th>小計</th>
+                <th>Product Name</th>
+                <th>Price</th>
+                <th>How many</th>
+                <th>Total Summary</th>
             </tr>
         </thead>
         略
@@ -98,6 +98,6 @@ const quantity = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"] // option用
     </table>
     <br>
     合計： {{ totalPrice }} 円<br>
-    <button>登録する</button>
+    <button>Confirmation</button>
     </form>
 </template>
